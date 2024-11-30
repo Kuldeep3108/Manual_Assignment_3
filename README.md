@@ -1,0 +1,1 @@
+This assignment includes concepts for RDBMS, RDBMS vs DBMS, SQL, SQL queries, Operators, Constraints, API, API Testing, Responsive Testing, Cross Browser Testing, Advanced Mobile Testing (apk, ipa) etc
